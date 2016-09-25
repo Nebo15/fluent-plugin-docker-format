@@ -52,8 +52,7 @@ A full example:
 </match>
 ```
 
-The output record will have two additional fields, `container_id` and `container_name`.
-
+The output record will have three additional fields, `container_id`, `container_name` and `image_name`.
 
 ## Contributing
 
